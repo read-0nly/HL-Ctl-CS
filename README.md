@@ -12,4 +12,6 @@ Useful links:
 - https://learn.microsoft.com/en-us/windows/uwp/devices-sensors/aep-service-class-ids#bluetooth-and-bluetooth-le-services
 - https://learn.microsoft.com/en-us/windows/uwp/devices-sensors/gatt-client
 - https://learn.microsoft.com/en-us/uwp/api/windows.devices.bluetooth.genericattributeprofile.gattcharacteristic?view=winrt-22621
+
+  Not related to this project but useful for the python one
 - https://shankhanilborthakur.medium.com/recording-system-audio-in-windows-10-using-pyaudio-1559f3e1b64f
